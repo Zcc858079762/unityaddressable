@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 4202940129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d203043c2954cfcf89fad805a541808b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d9b912a878bb90dfc47f0b36c42f16cb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Sphere.prefab
+- Assets/Scripts/luaScript.lua.txt
+- Assets/Resources/red.mat
+Dependencies: []
